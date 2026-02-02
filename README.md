@@ -7,7 +7,7 @@
 - 🌱  I’m currently looking for a internship from november 2026
 
 ### Contacts:
-- 🔗 Linkedin: https://www.linkedin.com/in/nicklas-skoglund-68650659
+- 🔗 Linkedin: Check link
 <!-- - You can reach me @
 
 
