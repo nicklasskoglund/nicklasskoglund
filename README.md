@@ -1,4 +1,16 @@
-## Hi there 👋
+### Hi there 👋
+
+- 👋 My name is Nicklas Skoglund
+- Gamer and AI enthusiast
+- Currently studying AI developing
+- Learning: Python / JavaScript / HTML / CSS / React / TypeScript / SQL / Flask / MongoDB / Git / GitHub / DBeaver / MySQL Workbench / VSCode / PyCharm / Machine learning / Applied AI / Deep learning / Agile methods / Sel-leadership
+- 🌱  I’m currently looking for a internship from november 2026
+
+### Contacts:
+- 🔗 Linkedin: https://www.linkedin.com/in/nicklas-skoglund-68650659
+<!-- - You can reach me @
+
+
 
 <!--
 **nicklasskoglund/nicklasskoglund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
