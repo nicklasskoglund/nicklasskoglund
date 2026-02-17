@@ -1,12 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Former+DJ+%26+producer;Gamer+with+a+debugger+build;Problem+solver+in+AI+mode&center=true&width=780)](https://git.io/typing-svg)
 
+
 # Hi, I'm Nicklas 👋
 
 📍 **Stockholm, Sweden**
 
-> Currently studying AI developing
+> 👨🏻‍💻 Currently studying AI developing
+
+<div align="center">
+
+![Open to Internship](https://img.shields.io/badge/Open%20to-Internship%20Nov%202026-brightgreen?style=for-the-badge)
+
+**I’m currently looking for an internship starting November 2026.**
+
+</div>
 
 ## 🚀 Future Skills
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,21 +33,25 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-- 🚀 And: SQL / Machine learning / Applied AI / Deep learning / Agile methods / Self-leadership
+🚀 SQL / Machine learning / Applied AI / Deep learning / Agile methods / Self-leadership
+</div>
 
-> 🌱  I’m currently looking for a internship from november 2026
+<div align="center">
 
 <table width="100%" style="border: none;">
 <tr>
 <td align="left" valign="top" width="50%" style="border: none;">
 
-<h3>About Me</h3>
+<h3>Short About Me</h3>
 
-- 🤖 Gamer and AI Enthusiast
+- 🤖 AI Developer Student
+- 🕹️ Gamer and AI Enthusiast
 - 🎵 Sports & Music Enthusiast
-- 🔧 PC Building Enthusiast
+- 🔧 Custom PC Building Enthusiast
+- ⛰️ Loves to be out in the nature
 
 </td>
+
 <td width="50%" valign="top" style="border: none;">
 <h3>GitHub Stats</h3>
 <div align="center">
@@ -51,6 +65,7 @@
 </tr>
 </table>
 
+</div>
 
 ## Current Projects
 
@@ -86,7 +101,7 @@
 
 ### Philosophy
 
-> "I treat projects like a good set: find the rhythm, solve the hard parts, use AI as my co-op teammate, and keep shipping until it feels like a win screen."
+> "I treat projects like a good DJ set: find the rhythm, solve the hard parts, use AI as my co-op teammate, and keep shipping until it feels like a win screen."
 
 
 <details>
