@@ -32,6 +32,7 @@
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 
 🚀 SQL / Machine learning / Applied AI / Deep learning / Agile methods / Self-leadership
 </div>
@@ -69,10 +70,12 @@
 
 ## Current Projects
 
+- 👨🏻‍💻 **[CtrlNickDev](https://github.com/nicklasskoglund/CtrlNickDev)** - Personal portfolio site built to present projects, education, tech stack, and contact links in a clean one-page layout.
 - 📈 **[StockSimulator](https://github.com/gonzycodes/StockSimulator)** - Probably the second best stock-trading simulator out there! (Scrum Master - part of AIDEV25 course)
 - 🎮 **[DungeonRunner](https://github.com/nicklasskoglund/Dungeon-Runner)** - a small 2D tile-based game in Python running with Pygame. (v.0.3.0)
 - 🔐 **[PassGen](https://github.com/nicklasskoglund/PassGen)** - a small CLI-project. (part of AIDEV25 course)
 - 🧮 **[GissaNumret](https://github.com/Aeontonn/AIDEV-grupp1)** - text-based number guessing game in Python. (part of AIDEV25 course)
+- 📬 **[FastAPI-postman-starter](https://github.com/nicklasskoglund/fastapi-postman-starter)** - Small beginner-friendly FastAPI project meant to be tested with Postman.
 
 
 ## GitHub Activity
