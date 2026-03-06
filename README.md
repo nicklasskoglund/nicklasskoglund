@@ -70,12 +70,13 @@
 
 ## Current Projects
 
+- 🎁 **[GimmeLoot](https://github.com/nicklasskoglund/GimmeLoot)** - A beginner-friendly FastAPI proxy on top of the free GamerPower API. Built for learning purposes – tested via Postman.
+- 📬 **[FastAPI-postman-starter](https://github.com/nicklasskoglund/fastapi-postman-starter)** - Small beginner-friendly FastAPI project meant to be tested with Postman.
 - 👨🏻‍💻 **[CtrlNickDev](https://github.com/nicklasskoglund/CtrlNickDev)** - Personal portfolio site built to present projects, education, tech stack, and contact links in a clean one-page layout.
 - 📈 **[StockSimulator](https://github.com/gonzycodes/StockSimulator)** - Probably the second best stock-trading simulator out there! (Scrum Master - part of AIDEV25 course)
 - 🎮 **[DungeonRunner](https://github.com/nicklasskoglund/Dungeon-Runner)** - a small 2D tile-based game in Python running with Pygame. (v.0.3.0)
 - 🔐 **[PassGen](https://github.com/nicklasskoglund/PassGen)** - a small CLI-project. (part of AIDEV25 course)
 - 🧮 **[GissaNumret](https://github.com/Aeontonn/AIDEV-grupp1)** - text-based number guessing game in Python. (part of AIDEV25 course)
-- 📬 **[FastAPI-postman-starter](https://github.com/nicklasskoglund/fastapi-postman-starter)** - Small beginner-friendly FastAPI project meant to be tested with Postman.
 
 
 ## GitHub Activity
