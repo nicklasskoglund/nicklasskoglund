@@ -70,7 +70,7 @@
 
 ## Current Projects
 
-- 🎁 **[GimmeLoot](https://github.com/nicklasskoglund/GimmeLoot)** - A beginner-friendly FastAPI proxy on top of the free GamerPower API. Built for learning purposes – tested via Postman.
+- 🎁 **[GimmeLoot](https://github.com/nicklasskoglund/GimmeLoot)** - A fullstack app for discovering free game giveaways.
 - 📬 **[FastAPI-postman-starter](https://github.com/nicklasskoglund/fastapi-postman-starter)** - Small beginner-friendly FastAPI project meant to be tested with Postman.
 - 👨🏻‍💻 **[CtrlNickDev](https://github.com/nicklasskoglund/CtrlNickDev)** - Personal portfolio site built to present projects, education, tech stack, and contact links in a clean one-page layout.
 - 📈 **[StockSimulator](https://github.com/gonzycodes/StockSimulator)** - Probably the second best stock-trading simulator out there! (Scrum Master - part of AIDEV25 course)
