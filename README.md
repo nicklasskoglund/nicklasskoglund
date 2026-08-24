@@ -1,139 +1,59 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Former+DJ+%26+producer;Gamer+with+a+debugger+build;Problem+solver+in+AI+mode&center=true&width=780)](https://git.io/typing-svg)
+<div align="center">
 
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6600&height=90&section=header)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF6600&center=true&vCenter=true&width=780&lines=Former+DJ+%26+producer;Gamer+with+a+debugger+build;Problem+solver+in+AI+mode)](https://git.io/typing-svg)
 
 # Hi, I'm Nicklas 👋
+📍 Stockholm, Sweden · 👨🏻‍💻 Studying AI Development
 
-📍 **Stockholm, Sweden**
-
-> 👨🏻‍💻 Currently studying AI developing
-
-<div align="center">
-
-![Open to Internship](https://img.shields.io/badge/Open%20to-Internship%20Nov%202026-brightgreen?style=for-the-badge)
-
-**I’m currently looking for an internship starting November 2026.**
+![Open to Internship](https://img.shields.io/badge/Open%20to-Internship%20Nov%202026-FF6600?style=for-the-badge&labelColor=000000)
 
 </div>
 
-## 🚀 Future Skills
+---
+
+### 🛠️ Stack
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF6600)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FF6600)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FF6600)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF6600)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF6600)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FF6600)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF6600)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6600)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF6600)
+
+### 🤖 Featured AI/ML Projects
+- 🔐 **[Biometric Access Terminal](https://github.com/nicklasskoglund/biometric-access-terminal)** — Live facial recognition security system with liveness detection & age/gender estimation
+- 💎 **[Diamond Price Prediction](https://github.com/nicklasskoglund/diamonds-ml-project)** — Supervised ML, 97.6% accuracy classifying diamond prices
+- 🖼️ **[CIFAR-10 CNN Classifier](https://github.com/nicklasskoglund/cifar10-cnn-classifier)** — CNN image classifier with FastAPI backend + React demo
+- 🎮 **[Video Game Sales Lab](https://github.com/nicklasskoglund/video_game_sales_unsupervised_lab)** — Unsupervised clustering uncovering patterns in game sales data
+- 📊 **[Employee Attrition (Ensemble ML)](https://github.com/nicklasskoglund/ensemble-attrition-ml)** — Random Forest & XGBoost predicting employee turnover
+
+### 🚀 Other Projects
+- **[GimmeLoot](https://github.com/nicklasskoglund/GimmeLoot)** — Fullstack app for discovering free game giveaways
+- **[CtrlNickDev](https://github.com/nicklasskoglund/CtrlNickDev)** — Personal portfolio site presenting projects & tech stack
+- **[StockSimulator](https://github.com/gonzycodes/StockSimulator)** — Stock/crypto trading simulator with a virtual budget (Scrum Master role)
+- **[PassGen](https://github.com/nicklasskoglund/PassGen)** — CLI password generator
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6600&height=60&section=header&reversal=true)
 
-🚀 SQL / Machine learning / Applied AI / Deep learning / Agile methods / Self-leadership
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicklasskoglund&theme=github-dark&hide_border=true&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=FF6600" alt="Streak stats"/>
 
-<div align="center">
-
-<table width="100%" style="border: none;">
-<tr>
-<td align="left" valign="top" width="50%" style="border: none;">
-
-<h3>Short About Me</h3>
-
-- 🤖 AI Developer Student
-- 🕹️ Gamer and AI Enthusiast
-- 🎵 Sports & Music Enthusiast
-- 🔧 Custom PC Building Enthusiast
-- ⛰️ Loves to be out in the nature
-
-</td>
-
-<td width="50%" valign="top" style="border: none;">
-<h3>GitHub Stats</h3>
-<div align="center">
-  <div class="stats-container" align="center">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nicklasskoglund?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-  </div>
-</div>
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/nicklasskoglund/nicklasskoglund/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
-## Current Projects
+> "Find the rhythm, solve the hard parts, use AI as a co-op teammate, keep shipping until it feels like a win screen."
 
-- 🎁 **[GimmeLoot](https://github.com/nicklasskoglund/GimmeLoot)** - A beginner-friendly FastAPI proxy on top of the free GamerPower API. Built for learning purposes – tested via Postman.
-- 📬 **[FastAPI-postman-starter](https://github.com/nicklasskoglund/fastapi-postman-starter)** - Small beginner-friendly FastAPI project meant to be tested with Postman.
-- 👨🏻‍💻 **[CtrlNickDev](https://github.com/nicklasskoglund/CtrlNickDev)** - Personal portfolio site built to present projects, education, tech stack, and contact links in a clean one-page layout.
-- 📈 **[StockSimulator](https://github.com/gonzycodes/StockSimulator)** - Probably the second best stock-trading simulator out there! (Scrum Master - part of AIDEV25 course)
-- 🎮 **[DungeonRunner](https://github.com/nicklasskoglund/Dungeon-Runner)** - a small 2D tile-based game in Python running with Pygame. (v.0.3.0)
-- 🔐 **[PassGen](https://github.com/nicklasskoglund/PassGen)** - a small CLI-project. (part of AIDEV25 course)
-- 🧮 **[GissaNumret](https://github.com/Aeontonn/AIDEV-grupp1)** - text-based number guessing game in Python. (part of AIDEV25 course)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6600)](https://www.linkedin.com/in/nicklas-skoglund-68650659/)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-000000?style=for-the-badge&logo=soundcloud&logoColor=FF6600)](https://soundcloud.com/nicklas-enace)
 
-## GitHub Activity
+![](https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:000000&height=90&section=footer)
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/nicklasskoglund)
-
-
-## What I'm Doing
-
-- **Human + AI** - Teaching machines while they teach me patience
-- **Coffee → Code** - Turning caffeine into commits, one bug at a time
-- **Debug Mode: ON** - Breaking things, fixing things, learning fast
-- **Quest & Respawn** - Grinding games and debugging life one level at a time
-- **Music Enthusiast** - Big music nerd and former DJ/producer who still lives for a perfect groove  
-- **Skynet 2.0? (Calm, it’s just v0.1)** - Teaching machines to think... but I’ve hidden the world-domination button
-
-
-### Contacts:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicklas-skoglund-68650659/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicklasskoglund)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/nicklas-enace)
-
-<!-- - You can reach me @ -->
-
-
-### Philosophy
-
-> "I treat projects like a good DJ set: find the rhythm, solve the hard parts, use AI as my co-op teammate, and keep shipping until it feels like a win screen."
-
-
-<details>
-<summary>🎯 Side Quests & beyond the Build</summary>
-
-- Former DJ/producer turned full-time music enthusiast
-- Big on flow states: from deep techno sessions to deep work
-- Gamer mindset in real life: learn patterns, adapt fast, keep progressing
-- Scrum-friendly by nature — clarity, momentum, and fewer blockers
-- I enjoy turning messy ideas into something people can actually use
-- Beat one bug before coffee gets cold
-- Build one tiny thing that saves future-me 30 min
-- Ship > perfect (always)
-
-</details>
-
-
-<!--
-**nicklasskoglund/nicklasskoglund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
