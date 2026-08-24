@@ -41,10 +41,6 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6600&height=60&section=header&reversal=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicklasskoglund&theme=github-dark&hide_border=true&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=FF6600" alt="Streak stats"/>
-
-<img src="https://raw.githubusercontent.com/nicklasskoglund/nicklasskoglund/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
 </div>
 
 > "Find the rhythm, solve the hard parts, use AI as a co-op teammate, keep shipping until it feels like a win screen."
